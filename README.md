@@ -34,7 +34,6 @@ Clone the repository and install the required dependencies:
 ```bash
 git clone https://github.com/your-username/timeseries2gif.git
 cd timeseries2gif
-pip install -r requirements.txt
 
 ```
 ---
