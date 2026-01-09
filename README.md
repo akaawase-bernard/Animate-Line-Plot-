@@ -14,9 +14,6 @@ develops over time using a single, continuous animation.
 ### Random Walk
 ![Random Walk Animation](data/random_walk.gif)
 
-### Damped Oscillation
-![Damped Wave Animation](data/damped_wave.gif)
-
 ---
 
 ## Features
