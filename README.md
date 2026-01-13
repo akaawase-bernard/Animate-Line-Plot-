@@ -32,7 +32,7 @@ develops over time using a single, continuous animation.
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/timeseries2gif.git
+git clone https://github.com/akaawase-bernard/timeseries2gif.git
 cd timeseries2gif
 
 ```
